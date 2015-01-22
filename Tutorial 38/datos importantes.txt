@@ -1,4 +1,0 @@
-REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "krupfware" /d "D:\Documentos\Cosas\IMSLP11084-Arban.pdf" /f
-REG DELETE "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "krupfware" /f
-System.getProperty("java.class.path")).getAbsolutePath()
-Runtime.getRuntime().exec(cmd);
