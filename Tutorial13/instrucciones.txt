@@ -1,0 +1,19 @@
+1. Codificar un programa que permita el ingreso de varias cadenas de texto (String) en un vector y ordenarlas alfabeticamente.
+
+2. Realizar un programa que permita ordenar un vecor de menor a mayor, o bien de mayor a menor (valores enteros). Esto se debe seleccionar mediante un menu (switch) y ademas se pide llenar el vector aleatoriamente con valores entre 0 y 15.
+
+3. Se pide realizar una aplicacion que contenga la informacion de un alumno como edad, y nombre del profesor. Tambien la informacion de un profesor como asignatura que realiza y el nombre del alumno, los datos obtenidos (nombre profesor, y nombre alumno deben retornar a su clase especifica).
+
+4. Realizar un programa utilizando herencia de la clase animales domesticos la cual posee como atributos, nombre, color, raza y metodos get y set de cada uno de los atributos. Utilizar clase perro y gato para su funcion, crear unmetodo mostrar para ver la informacion ingresada.
+
+5. Crear un programa que realice la siguiente estructura:
+
+1 2 3 4 5 6 7 8 9
+1 1 2 3 4 5 6 7 8
+1 1 1 2 3 4 5 6 7
+1 1 1 1 2 3 4 5 6
+1 1 1 1 1 2 3 4 5 
+1 1 1 1 1 1 2 3 4 
+1 1 1 1 1 1 1 2 3
+1 1 1 1 1 1 1 1 2
+1 1 1 1 1 1 1 1 1
