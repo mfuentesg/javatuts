@@ -4,9 +4,7 @@
 
 3. Se pide realizar una aplicacion que contenga la informacion de un alumno como edad, y nombre del profesor. Tambien la informacion de un profesor como asignatura que realiza y el nombre del alumno, los datos obtenidos (nombre profesor, y nombre alumno deben retornar a su clase especifica).
 
-4. Realizar un programa utilizando herencia de la clase animales domesticos la cual posee como atributos, nombre, color, raza y metodos get y set de cada uno de los atributos. Utilizar clase perro y gato para su funcion, crear unmetodo mostrar para ver la informacion ingresada.
-
-5. Crear un programa que realice la siguiente estructura:
+4. Crear un programa que realice la siguiente estructura:
 
 1 2 3 4 5 6 7 8 9
 1 1 2 3 4 5 6 7 8
